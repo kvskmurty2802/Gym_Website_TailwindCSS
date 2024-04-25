@@ -1,3 +1,11 @@
+# K V S KRISHNA MURTY
+# Contact Email : krishnamurty2802@gmail.com
+# My github Account : https://github.com/kvskmurty2802
+# This Project GitHub Link : https://github.com/kvskmurty2802/Gym_Website_TailwindCSS
+
+#ignore node_modules
+node_modules
+
 # Logs
 logs
 *.log
@@ -7,7 +15,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
 dist
 dist-ssr
 *.local
